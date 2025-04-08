@@ -1,0 +1,40 @@
+body {
+    
+    background-color: blue;
+}
+
+h1{background-color: rgb(132, 223, 223);}
+
+p{background-color:rgb(178, 230, 75);}
+
+h1{font-family: 'Times New Roman', Times, serif;}
+
+h1{font-family: 'Times New Roman', Times, serif;}
+
+h1{margin-bottom: 0cqmax;}
+
+h1{color: rgb(255, 145, 0);}
+.comunicador{color: blueviolet;}
+
+.container{
+    width: 100px;
+    height: 40px;
+    margin: 100px;
+    padding: 10px;
+    border: 10px solid chocolate;
+}
+.remar{
+    width: 20%;
+    height: 50px;
+    margin: 100px;
+    padding: 20px;
+    border: 30px solid rgb(63, 30, 210);  
+}
+
+a:hover{
+    background-color: red;
+}
+
+button{
+    transition: background-color: dark;
+}
