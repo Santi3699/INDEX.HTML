@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <button>texto de prueba</button>
+    <a href="https://www.google.com">google</a>
+<p>Pagina web</p>
+   
+    <div class="container">escuchar</div>
+        <h1>titulo</h1>
+        <p class="comunicador">titulo 1</p>
+
+    </div>
+    
+<h1>Hello world
+    <div class="remar">comunicador</div>
+</h1>
+
+<a href="http://yoube.com">estafas con migo</a>
+<img src="pitufo scream.png" alt="wila wilo">
+
+<autoplay src ="wila wilo.mp3">wila wilo</audio>
+
