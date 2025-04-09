@@ -23,6 +23,25 @@ h1{color: rgb(255, 145, 0);}
     padding: 10px;
     border: 10px solid chocolate;
 }
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    width: 30%;
+    background-color: aqua;
+}
+
+
+@media (max-width: 600px) {
+    .container {flex-direction: column;}
+}
+
+.item{
+    width: 100%;
+}
 .remar{
     width: 20%;
     height: 50px;
