@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Viaje a traves de los sabores</title>
+        <link rel="stylesheet" href="proyecto.css">
+    </head>
+    <body>
+        <!--contenido aquí-->
+    </body>
+<header>
+    <h1 class="groud" sabores de mi tierra></h1>
+    <Nav>
+        <ul>
+        <li><a href="About">Sobre nosotros</a></li>
+        <li><a href="portafolio">Nuestra historia</a></li>
+        <li><a href="Producto">Menu</a></li>
+    </ul>
+    </nav>
+    </header>
+    <section id="about">
+        <h2>Sobre nosotros</h2>
+        <p>Disfruta lo mejor de nuestra tierra, un plato a la vez.</p>
+    </section>
+
+    <section id="portafolio">
+        <h2>portafolio</h2>
+        <div class="gallery"
+        class="project"></div>
+        <img src="imagen.jpg">
+    </div>
+    </section>
+   
+    <div class="news">
+        <a href="#">El alma de Colombia, servida en tu mesa</a>
+        <menu>
+          <li><button id="save">Save for later</button></li>
+          <li><button id="share">Share this news</button></li>
+        </menu>
+    </div>
+
+
+
+      <iframe width="500" height="300" src="https://www.youtube.com/embed/qkXBJf0J8dU?si=Kh9GhQlhQNLG9HuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
+</body>
+</html>
