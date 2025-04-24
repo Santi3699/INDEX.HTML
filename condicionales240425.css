@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: beige;
+}
+
+.contenedor{
+    background-color: aquamarine;
+    width: 40%;
+    margin-left: 30%;
+    justify-content: center;
+    margin-top: 20%;
+    padding-left: 10%;
+    text-align: center;
+}
+
+.resultados {
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: 10%;
+    width: 30%;
+    justify-content: center;
+    padding-left: 10%;
+}
